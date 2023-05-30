@@ -32,11 +32,14 @@
 
 ## Input:
 
+![image](https://github.com/vidhyasrikachapalayam/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119477817/a9657de0-9b30-4072-b967-6979993e1f5b)
+
 ### Output:
 
+![image](https://github.com/vidhyasrikachapalayam/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119477817/3cd0aaed-239f-43d9-b5b0-2f44f8421125)
 
-### Name:
-### Register Number:
+### Name:vidhyasri.k
+### Register Number:212222230170
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
